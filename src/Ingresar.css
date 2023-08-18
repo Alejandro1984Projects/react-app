@@ -1,0 +1,44 @@
+#cont-principal-ingresar{
+    background-color:#DEDEDE; 
+    font-family: Courier;
+    width: 350px; height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  #cont-central-ingresar{
+    margin-top: 150px;
+    border-radius: 15px;
+    background-color:white;     
+    text-align: center;
+  
+  }
+  
+  #titulo-ingresar{
+    text-align: center; 
+    font-family: Candara;
+    background-color:#12BAB6;
+    color: white;
+    font-size: 150%; 
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+  
+  }
+  input{            
+    
+    border-radius: 15px;
+  
+  }
+  button{
+    font-family: Garamond;
+    background-color:#12BAB6;
+    color: #FFFFFF;
+    font-size: 150%;
+    border-radius: 15px;
+  
+  }
+  button:hover {
+    background-color:#FFFFFF;
+    color: black;
+    
+  }

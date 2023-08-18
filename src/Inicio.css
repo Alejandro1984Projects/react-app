@@ -1,0 +1,35 @@
+
+#header-inicio{
+    background-color:#DEDEDE; font-family: Courier;
+}
+#titulo-inicio{
+    text-align: center; font-family:Verdana; font-size:200%;
+}
+#cont-inicio{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#section-inicio button{
+    margin: 15px;
+    font-size: 200%;
+    font-family: Garamond;            
+    background-color:#12BAB6;
+    color: #FFFFFF;
+    border-radius: 15px;
+    width: 600px;
+    height: 70px;
+
+}
+#section-inicio button:hover {
+    background-color:#FFFFFF;
+    color: black;
+    
+}
+
+#section-inicio img{
+    margin: auto;
+    margin-top: 10px;
+}
